@@ -3,5 +3,15 @@
     "question": "Berapa jumlah ayat surat Al-Baqarah?",
     "options": ["182", "286"],
     "answer": "286"
-  }
+  },
+  {
+    "question": "وَتَمَّتْ كَلِمَتُ رَبِّكَ",
+    "options": ["QS. 6:115", "QS. 6:116"],
+    "answer": "QS. 6:115"
+  },
+  {
+    "question": "Bacakan QS. 6:97!",
+    "options": ["Iya", "Tidak"],
+    "answer": "Iya"
+  },
 ]
